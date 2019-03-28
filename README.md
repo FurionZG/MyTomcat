@@ -11,16 +11,28 @@
    7.对不存在页面的404处理，页面异常的500处理
    ## 功能展示：
    ### 这是项目结构：
+   
 <div align=center><img width="50%" height="50%" src="imgs/微信截图_20190328150736.png"/></div>
+
    ### 项目启动：
+   
 <div align=center><img width="50%" height="50%" src="imgs/微信截图_20190328150957.png"/></div>
+
    ### 处理静态页面：
+   
 <div align=center><img width="50%" height="50%" src="imgs/微信截图_20190328151235.png"/></div>
+
    ### 处理Servlet：
+   
 <div align=center><img width="50%" height="50%" src="imgs/微信截图_20190328151445.png"/></div>
-   自定义的web.xml结构为
+
+   自定义的web.xml结构为:
+   
 <div align=center><img width="50%" height="50%" src="imgs/微信截图_20190328151920.png"/></div>
    ### 处理404：
+   
 <div align=center><img width="50%" height="50%" src="imgs/微信截图_20190328151534.png"/></div>
+
    ### 处理500：
+   
 <div align=center><img width="50%" height="50%" src="imgs/微信截图_20190328151728.png"/></div>
