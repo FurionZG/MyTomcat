@@ -14,6 +14,7 @@ public class TestServlet extends Servlet {
 
 	@Override
 	public void doGet(MyRequest request, MyResponse response) {
+		int i =9/0;
 		response.write(MyResponse.responseHeader + "Get Method");
 	}
 
