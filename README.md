@@ -16,23 +16,24 @@
 
    ### 项目启动：
    
-<div align=center><img width="50%" height="50%" src="imgs/微信截图_20190328150957.png"/></div>
+<div align=center><img width="100%" height="100%" src="imgs/微信截图_20190328150957.png"/></div>
 
    ### 处理静态页面：
    
-<div align=center><img width="50%" height="50%" src="imgs/微信截图_20190328151235.png"/></div>
+<div align=center><img width="100%" height="100%" src="imgs/微信截图_20190328151235.png"/></div>
 
    ### 处理Servlet：
    
-<div align=center><img width="50%" height="50%" src="imgs/微信截图_20190328151445.png"/></div>
+<div align=center><img width="100%" height="100%" src="imgs/微信截图_20190328151445.png"/></div>
 
-   自定义的web.xml结构为:
+   ### 自定义的web.xml结构为:
    
-<div align=center><img width="50%" height="50%" src="imgs/微信截图_20190328151920.png"/></div>
+<div align=center><img width="100%" height="100%" src="imgs/微信截图_20190328151920.png"/></div>
+
    ### 处理404：
    
-<div align=center><img width="50%" height="50%" src="imgs/微信截图_20190328151534.png"/></div>
+<div align=center><img width="100%" height="100%" src="imgs/微信截图_20190328151534.png"/></div>
 
    ### 处理500：
    
-<div align=center><img width="50%" height="50%" src="imgs/微信截图_20190328151728.png"/></div>
+<div align=center><img width="100%" height="100%" src="imgs/微信截图_20190328151728.png"/></div>
